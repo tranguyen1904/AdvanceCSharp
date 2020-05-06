@@ -1,0 +1,7 @@
+C:\Users\TrangUyen\source\repos\AdvanceCSharp\AdvanceCSharp\bin\Debug\AdvanceCSharp.exe.config
+C:\Users\TrangUyen\source\repos\AdvanceCSharp\AdvanceCSharp\bin\Debug\AdvanceCSharp.exe
+C:\Users\TrangUyen\source\repos\AdvanceCSharp\AdvanceCSharp\bin\Debug\AdvanceCSharp.pdb
+C:\Users\TrangUyen\source\repos\AdvanceCSharp\AdvanceCSharp\obj\Debug\AdvanceCSharp.csprojAssemblyReference.cache
+C:\Users\TrangUyen\source\repos\AdvanceCSharp\AdvanceCSharp\obj\Debug\AdvanceCSharp.csproj.CoreCompileInputs.cache
+C:\Users\TrangUyen\source\repos\AdvanceCSharp\AdvanceCSharp\obj\Debug\AdvanceCSharp.exe
+C:\Users\TrangUyen\source\repos\AdvanceCSharp\AdvanceCSharp\obj\Debug\AdvanceCSharp.pdb
